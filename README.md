@@ -11,6 +11,7 @@ Donc me voilà,j'ai déjà passé des tests pour la formation TAI,je me suis pri
   <li>la capacité de créer ,ici c'est surement mon côté artistique qui parle aussi</li>
   <li>l'ambiance lors des presentations et le fonctionnement du CEFIM</li>
   </lu>
+  
 Après quelques recherches avec des proches, certaines institutions aussi, il s'est avéré qu'il serait peut être bon de pousser ailleurs le domaine de qualification...Donc me voici ici à tenter le codage tout simplement...
 
 D'ailleurs ca m'a rappelé que pré-ado,il me semble, j'avais eu en ma possession un petit ordinateur pour s'initier au codage:Alice,c'était tout rouge,sorte de minitel en boite rouge...Alors ca doit être le groupe Hachette qui s'était lancé dans cette aventure d'initier la masse...
