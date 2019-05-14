@@ -3,7 +3,7 @@
   <p>
 Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de code,ca fait dejà si longtemps?!!
   </p>
-<a href="https://github.com/ricko37/hello_world/blob/ricko37-patch-1/autoportrait.gif" alt="C'est tout moi ça"> </a>
+<a href="https://github.com/ricko37/hello_world/blob/ricko37-patch-1/autoportrait.gif" target="_blank">C'est tout moi ça </a>
      
 <p>
 Donc me voilà,j'ai déjà passé des tests pour la formation TAI,je me suis pris au jeu je dois dire...Dans la presentation au TAI j'expliquai pourquoi je me tournai vers les métiers de l'informatique:( et notemment l'envie de reprendre une voie que j'avais dû laisser de côté...)
