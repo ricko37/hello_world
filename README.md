@@ -3,7 +3,7 @@
   <p>
 Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de code,ca fait dejà si longtemps?!!
   </p>
-<img src="https://www.facebook.com/eriic.lnhi" alt="C'est tout moi ça?!">
+<img src="upfiles" alt="C'est tout moi ça?!">
 <p>
 Donc me voilà,j'ai déjà passé des tests pour la formation TAI,je me suis pris au jeu je dois dire...Dans la presentation au TAI j'expliquai pourquoi je me tournai vers les métiers de l'informatique:( et notemment l'envie de reprendre une voie que j'avais dû laisser de côté...)
 <ul>
