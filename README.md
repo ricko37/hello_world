@@ -3,7 +3,7 @@
   <p>
 Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de code,ca fait dejà si longtemps?!!
   </p>
-<p>Click pour me voir <a href="#">autoportrait</a>.</p>
+<p>Click pour me voir <a href="#">autoportrait.gif</a>.</p>
   
   <a href="#"><img src="https://www.facebook.com/photo.php?fbid=139444896387488&set=a.139443939720917&type=3&theater" alt="dessin"></a>
   </p>
