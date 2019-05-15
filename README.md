@@ -6,7 +6,7 @@ Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de 
   <html>
   <head>
     <meta charset="utf-8">
-    <title>dessin</title>
+    <title>autoportrait</title>
   </head>
   <body>
     <img src="autoportrait.gif" alt="c est tout moi ça">
