@@ -24,6 +24,6 @@ J'espère réussir bien évidemment à créer avec tout ceci un certain brin d'e
   </p>
     <form action="/corbelle à dessin">
 <input type="text" placeholder="corbeille à dessin">
-  <button type="submit">soumettre</button>
+  <button type="submit">corbeille à dessin</button>
   </form>
 </main>
