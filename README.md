@@ -3,9 +3,7 @@
   <p>
 Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de code,ca fait dejà si longtemps?!!
   </p>
-  <form action="/corbelle à dessin">
-<input type="text" placeholder="c'est tout moi ça">
-  </form>
+
 <p>
 Donc me voilà,j'ai déjà passé des tests pour la formation TAI,je me suis pris au jeu je dois dire...Dans la presentation au TAI j'expliquai pourquoi je me tournai vers les métiers de l'informatique:( et notemment l'envie de reprendre une voie que j'avais dû laisser de côté...)
 <ul>
@@ -24,4 +22,8 @@ D'ailleurs ca m'a rappelé que pré-ado,il me semble, j'avais eu en ma possessio
 Bref,après code combat et IOI ah oui IOI...J'en suis au chapitre deux,moi le chapitre un, il m'aura fallu plus que 3 à 5 heures...ce serait plutôt en journées même...Mais je m'accroche,et après cette présentation éffectuée,j'irai continuer l'aventure...! 
 J'espère réussir bien évidemment à créer avec tout ceci un certain brin d'enthousiasme de votre part à bien vouloir me rencontrer...Et merci de votre attention surtout.
   </p>
+    <form action="/corbelle à dessin">
+<input type="text" placeholder="corbeille à dessin">
+  <button type="submit">soumettre</button>
+  </form>
 </main>
