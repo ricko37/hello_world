@@ -3,15 +3,7 @@
   <p>
 Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de code,ca fait dejà si longtemps?!!
   </p>
-  <html>
-  <head>
-    <meta charset="utf-8">
-    <title>autoportrait</title>
-  </head>
-  <body>
-    <img src="autoportrait.gif" alt="c est tout moi ça">
-  </body>
-</html>
+  
 <p>
   </p>
 <p>
