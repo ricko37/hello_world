@@ -3,7 +3,10 @@
   <p>
 Bonjour,je me presente donc Eric Lanchais,j'ai été enregistré sous ce nom de code,ca fait dejà si longtemps?!!
   </p>
-
+<p>Click pour me voir <a href="#">autoportrait</a>.</p>
+  
+  <a href="#"><img src="https://www.facebook.com/photo.php?fbid=139444896387488&set=a.139443939720917&type=3&theater" alt="dessin"></a>
+  </p>
 <p>
 Donc me voilà,j'ai déjà passé des tests pour la formation TAI,je me suis pris au jeu je dois dire...Dans la presentation au TAI j'expliquai pourquoi je me tournai vers les métiers de l'informatique:( et notemment l'envie de reprendre une voie que j'avais dû laisser de côté...)
 <ul>
